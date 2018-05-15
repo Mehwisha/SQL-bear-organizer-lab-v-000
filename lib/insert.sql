@@ -1,4 +1,5 @@
--- insert into bears(id, name, age, gender, color, temperament, alive) values (2, "Rowdy", 2, "M", "Black", "Cool", "T");
+INSERT INTO bears(id, name, age, gender, color, temperament, alive) values (1, "Mr. Chocolate", 5, "M", "Brown", "Cool", "T");
+insert into bears(id, name, age, gender, color, temperament, alive) values (2, "Rowdy", 2, "M", "Black", "Cool", "T");
 insert into bears(id, name, age, gender, color, temperament, alive) values(3, "Tabitha", 8, "F", "White", "Cool", "T");
 insert into bears(id, name, age, gender, color, temperament, alive) values(4, "Sergeant Brown", 10, "M", "Brown", "Cool", "T");
 insert into bears(id, name, age, gender, color, temperament, alive) values(5, "Melissa", 15, "F", "Brown", "Hot", "F");
